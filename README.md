@@ -1,8 +1,8 @@
-# 3d-game
+# 3D_Game
 
 Experimental 3D-Game written in javascript using three.js  
 The point of the game is nothing, currently.  
-Live preview: http://momo5502.github.io/3d-game/  
+Live preview: https://github.com/CrazyPassion218/3D_Game_Forest_Explorer_three.js
 
 
 

@@ -19,25 +19,25 @@ ENGINE.init(function()
 
   ENGINE.material.load("fins2");
   ENGINE.material.load("shadow");
-
+/*engine load function*/
   ENGINE.material.load("vitsippa");
 
   ENGINE.material.load("bob2");
-
+/*engine load function*/
   ENGINE.material.load("rock");
   ENGINE.material.load("rock-normal");
-
+/*engine load function*/
   ENGINE.material.load("leaves");
   ENGINE.material.load("branch");
   ENGINE.material.load("cap");
-
+/*engine load function*/
   ENGINE.material.load("diffuse-birch");
   ENGINE.material.load("normal-birch");
-
+/*engine load function*/
   ENGINE.material.load("grey");
   ENGINE.material.load("normal");
   ENGINE.material.load("occlusion");
-
+/*engine load function*/
   ENGINE.material.load("ray");
 
   // Load shaders
@@ -50,7 +50,7 @@ ENGINE.init(function()
   // Load models
   ENGINE.model.load("tree");
   ENGINE.model.load("butterfly");
-
+/*engine load function*/
   // Load sounds
   ENGINE.sound.load("ambient");
 

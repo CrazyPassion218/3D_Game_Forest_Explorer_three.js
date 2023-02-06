@@ -23,7 +23,7 @@
             side: THREE.DoubleSide,
             shading: THREE.SmoothShading
         });
-
+		//this is loop for perform main process.
         for (var i = 0; i < GAME.const.butterflyCount; i++)
         {
             var mesh = new THREE.MorphAnimMesh(geometry, material);

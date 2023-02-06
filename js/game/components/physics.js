@@ -1,5 +1,6 @@
 (function()
-{
+{	
+	// this is for strict language
     'use strict';
     window.GAME = window.GAME ||
     {};
